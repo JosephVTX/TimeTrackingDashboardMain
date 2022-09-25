@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/JoshMooner/TimeTrackingDashboardMain](https://github.com/JoshMooner/TimeTrackingDashboardMain)
-- Live Site URL: [https://joshmooner.github.io/TimeTrackingDashboardMain](https://joshmooner.github.io/TimeTrackingDashboardMain)
+- Solution URL: [https://github.com/JosephVTX/TimeTrackingDashboardMain/]
+- Live Site URL: [https://josephvtx.github.io/TimeTrackingDashboardMain/]
 
 ## My process
 
@@ -56,7 +56,3 @@ I want to keep focusing on learning on how to improve the structure of my code a
 ### Useful resources
 
 - [Fetch Tutorial](https://www.youtube.com/watch?v=G-j5SI7Qitk) - This helped me because it's a simple tutorial of how to use the API fetch and also helped to develop the logic to solve the challenge.
-
-## Author
-
-- - Frontend Mentor - [@JoshMooner](https://www.frontendmentor.io/profile/JoshMooner)
